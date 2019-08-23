@@ -1,0 +1,7 @@
+runtime: python37
+#[END gae_flex_mysql_settings]
+env_variables:
+  CLOUD_SQL_CONNECTION_NAME: 'asistente-180018:southamerica-east1:bd-bsa-chequeo-planta'
+  DB_USER: 'alvarov'
+  DB_PASS: 'lata5comprar'
+  DB_NAME: 'prueba_appengine'
